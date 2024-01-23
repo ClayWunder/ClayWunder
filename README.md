@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ClayWunder/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ClayWunder/azure-network-protocols)
-
+  - [Virtual Machines and Networking](https://github.com/ClayWunder/azure-network-protocols)
 - <b>Virtual Private Networks</b>
   - [Configuring Virtual Private Networks (VPN) within Azure VMs](https://github.com/ClayWunder/VPN) 
     
