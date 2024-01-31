@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ClayWunder/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ClayWunder/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/ClayWunder/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/ClayWunder/ActiveDirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ClayWunder/azure-network-protocols)
   - [Deploying and Inspecting Network Traffic Between Azure Virtual Machines](https://github.com/ClayWunder/VMs-Networking)
 - <b>Virtual Private Networks</b>
