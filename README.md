@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ClayWunder/osticket-prereqs)
+  - [Active Directory Deployment](https://github.com/ClayWunder/ActiveDirectory)
   - [osTicket: Post-Installation Configuration](https://github.com/ClayWunder/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ClayWunder/ticket-lifecycle)
 - <b>Microsoft Azure</b>
