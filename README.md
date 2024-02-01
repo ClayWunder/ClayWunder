@@ -2,10 +2,6 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Active Directory</b>
-  - [Active Directory Deployment](https://github.com/ClayWunder/ActiveDirectory)
-  - [osTicket: Post-Installation Configuration](https://github.com/ClayWunder/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ClayWunder/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ClayWunder/ActiveDirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ClayWunder/azure-network-protocols)
