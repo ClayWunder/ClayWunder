@@ -6,7 +6,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/ClayWunder/ActiveDirectory)
   - [Deploying and Inspecting Network Traffic Between Azure Virtual Machines](https://github.com/ClayWunder/VMs-Networking)
 - <b>Network File Shares and Permissions</b>
-  - [Configuring Virtual Private Networks (VPN) within Azure VMs](https://github.com/ClayWunder/file-share-permissions)-  
+  - [Configuring Network File Sharing and Permissions](https://github.com/ClayWunder/file-share-permissions)-  
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="claywunder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
